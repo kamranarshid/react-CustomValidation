@@ -4,7 +4,7 @@ Common validation class
 Who it works
 Call from component 
 ****
-import GeneralValidation from "{path}/GeneralValidation";
+import GeneralValidation from "{path}/CustomValidation";
 *****
 const getValidation = GeneralValidation([
       ["email", "emailAddress", "kamranarshid@gmail.com"],
